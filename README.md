@@ -52,6 +52,13 @@
 
 ![image](https://github.com/user-attachments/assets/044b72e6-954b-45c6-8a5b-d274171c8c6f)
 
+### Redmine.
+
+Скачивание Redmine с bitnami.com.
+
+![image](https://github.com/user-attachments/assets/96f51cfc-b191-4c43-adcd-cb49966c8c06)
+
+
 
 ## Функциональный анализ.
 1. **Краткое описание возможностей каждой системы**:
