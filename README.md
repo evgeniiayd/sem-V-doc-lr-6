@@ -36,6 +36,10 @@
 
 ![image](https://github.com/user-attachments/assets/b51e019f-90fa-4fb1-b20d-7d54e775a5a0)
 
+Установка MediaWiki по следующему адресу:
+
+![image](https://github.com/user-attachments/assets/56533ce6-5fdf-4c44-99d6-01d3ed25ea41)
+
 
 
 ## Функциональный анализ.
