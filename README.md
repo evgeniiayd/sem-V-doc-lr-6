@@ -48,6 +48,10 @@
 
 ![image](https://github.com/user-attachments/assets/6f9f38c7-641e-4d8f-8b9b-96044123c465)
 
+Результат установки:
+
+![image](https://github.com/user-attachments/assets/044b72e6-954b-45c6-8a5b-d274171c8c6f)
+
 
 ## Функциональный анализ.
 1. **Краткое описание возможностей каждой системы**:
