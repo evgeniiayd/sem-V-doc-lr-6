@@ -40,6 +40,10 @@
 
 ![image](https://github.com/user-attachments/assets/56533ce6-5fdf-4c44-99d6-01d3ed25ea41)
 
+Результат настройки MediaWiki:
+
+![image](https://github.com/user-attachments/assets/e0ef5385-3413-4dac-ab39-c13537b8b2d1)
+
 
 
 ## Функциональный анализ.
