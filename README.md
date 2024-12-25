@@ -24,6 +24,18 @@
 
 ![image](https://github.com/user-attachments/assets/aed85cba-cdf6-49ef-b7e8-b40435ef1200)
 
+В xampp запуск Apache и MySQL:
+
+![image](https://github.com/user-attachments/assets/ca13826f-4879-48c9-9d1e-21af60f7ffc5)
+
+Переход по адресу localhost/phpmyadmin/:
+
+![image](https://github.com/user-attachments/assets/934c8593-3ddf-469a-a5b0-cbff7317769b)
+
+Добавление учетной записи MediaWiki:
+
+![image](https://github.com/user-attachments/assets/b51e019f-90fa-4fb1-b20d-7d54e775a5a0)
+
 
 
 ## Функциональный анализ.
