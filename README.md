@@ -44,6 +44,9 @@
 
 ![image](https://github.com/user-attachments/assets/e0ef5385-3413-4dac-ab39-c13537b8b2d1)
 
+Добавление файла LocalSettings.php к файлу index.php в директории mediawiki-example:
+
+![image](https://github.com/user-attachments/assets/6f9f38c7-641e-4d8f-8b9b-96044123c465)
 
 
 ## Функциональный анализ.
