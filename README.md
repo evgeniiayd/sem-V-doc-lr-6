@@ -8,3 +8,16 @@
 
 ## Процесс установки.
 ### MediaWiki.
+Скачивание архива с официального сайта.
+![image](https://github.com/user-attachments/assets/63b195bc-e260-485c-8df0-d9e974173f48)
+
+Извлечение архива.
+![image](https://github.com/user-attachments/assets/499a2c61-f62e-4f52-a5b9-ce2a295ad597)
+
+Для установки будет использоваться программа xampp, которую тоже нужно установить:
+![image](https://github.com/user-attachments/assets/08284ee2-bea5-467e-b4a3-ea3525f2541a)
+
+Копирование содержимого архива в следующую директорию:
+![image](https://github.com/user-attachments/assets/253f346b-2074-442a-b9fa-cdfbe46d769d)
+
+
